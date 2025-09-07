@@ -1,0 +1,3 @@
+Username,Plate Type,Plates Cost,Number Panels,Inverter Type,Inverter Cost,Wire Type,Wire Cost,Battery Type,Battery Cost,Number Batteries,Maintainence Cost,Installation Cost,Net Meter Cost,Total Cost (PKR),Savings (PKR)
+Ali,Monocrystalline,935000,17,Hybrid,40000,Copper,18000,Gel-battery,46000,2,50000,20000,46700,1.1557e+06,9479.13
+Ahmed,Monocrystalline,880000,16,String,30000,Copper,14000,AGM-battery,31000,1,5000,20000,46150,1.02615e+06,10705.8
